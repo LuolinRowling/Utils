@@ -1,0 +1,22 @@
+.selected .project>.name>.content {
+    line-height: 24px;
+}
+.selected>.children>.project>.name>.bullet {
+    margin-top: 7px;
+}
+.selected>.children>.project .project>.name>.bullet {
+    margin-top: 6px;
+}
+.contentBold {
+    font-weight: normal;
+    color: rgb(235, 87, 87);
+    background-color: rgb(237, 237, 237);
+    padding: 0 2px;
+}
+.page {
+    background-color: rgba(255, 255, 255, 0.95);
+}
+* {
+    font-family: Courier New, STSong;
+    font-weight: 300;
+}
